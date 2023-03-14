@@ -72,6 +72,7 @@
   text-align: center;
   color: #41428b;
   margin: 15px 0;
+  cursor: pointer;
 }
 
 .loginRegisterButton {

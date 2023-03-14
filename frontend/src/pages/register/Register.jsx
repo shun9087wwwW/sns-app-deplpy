@@ -80,6 +80,9 @@ export default function Register() {
             <button className="loginButton" type="submit">
               サインアップ
             </button>
+            <a className="loginForgot" onClick={() => navigate("/login")}>
+              ログインページへ
+            </a>
           </form>
         </div>
       </div>
